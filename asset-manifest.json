@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mundostarr/static/css/main.bbe0cab9.chunk.css",
+    "main.js": "/mundostarr/static/js/main.d7d289c5.chunk.js",
+    "main.js.map": "/mundostarr/static/js/main.d7d289c5.chunk.js.map",
+    "runtime-main.js": "/mundostarr/static/js/runtime-main.0f894a63.js",
+    "runtime-main.js.map": "/mundostarr/static/js/runtime-main.0f894a63.js.map",
+    "static/js/2.7c488dcd.chunk.js": "/mundostarr/static/js/2.7c488dcd.chunk.js",
+    "static/js/2.7c488dcd.chunk.js.map": "/mundostarr/static/js/2.7c488dcd.chunk.js.map",
+    "index.html": "/mundostarr/index.html",
+    "precache-manifest.ac144a321e56b375a60cf52bc0da19b3.js": "/mundostarr/precache-manifest.ac144a321e56b375a60cf52bc0da19b3.js",
+    "service-worker.js": "/mundostarr/service-worker.js",
+    "static/css/main.bbe0cab9.chunk.css.map": "/mundostarr/static/css/main.bbe0cab9.chunk.css.map",
+    "static/js/2.7c488dcd.chunk.js.LICENSE.txt": "/mundostarr/static/js/2.7c488dcd.chunk.js.LICENSE.txt",
+    "static/media/Our.css": "/mundostarr/static/media/Aguada.189444ca.jpg",
+    "static/media/office.jpg": "/mundostarr/static/media/office.ba71e07c.jpg",
+    "static/media/user.jpg": "/mundostarr/static/media/user.b5b4f006.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f894a63.js",
+    "static/js/2.7c488dcd.chunk.js",
+    "static/css/main.bbe0cab9.chunk.css",
+    "static/js/main.d7d289c5.chunk.js"
+  ]
+}
