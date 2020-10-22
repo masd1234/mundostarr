@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "411441d61163b0abdc85a9788730565e",
+    "revision": "40672bba421352fb1a621ab69a44de20",
     "url": "/mundostarr/index.html"
   },
   {
-    "revision": "aed7070fda4f5c7aef6f",
+    "revision": "b06c785d9a0254969c07",
     "url": "/mundostarr/static/css/main.bbe0cab9.chunk.css"
   },
   {
-    "revision": "76d0f87dabe097727382",
-    "url": "/mundostarr/static/js/2.7c488dcd.chunk.js"
+    "revision": "7f34af71e5a66f591f98",
+    "url": "/mundostarr/static/js/2.6f5fb50a.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/mundostarr/static/js/2.7c488dcd.chunk.js.LICENSE.txt"
+    "url": "/mundostarr/static/js/2.6f5fb50a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aed7070fda4f5c7aef6f",
-    "url": "/mundostarr/static/js/main.86f76259.chunk.js"
+    "revision": "b06c785d9a0254969c07",
+    "url": "/mundostarr/static/js/main.3042542d.chunk.js"
   },
   {
     "revision": "babbc7d230d0fc1379ca",
