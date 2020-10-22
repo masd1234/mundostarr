@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mundostarr/static/css/main.bbe0cab9.chunk.css",
-    "main.js": "/mundostarr/static/js/main.ab326089.chunk.js",
-    "main.js.map": "/mundostarr/static/js/main.ab326089.chunk.js.map",
+    "main.js": "/mundostarr/static/js/main.86f76259.chunk.js",
+    "main.js.map": "/mundostarr/static/js/main.86f76259.chunk.js.map",
     "runtime-main.js": "/mundostarr/static/js/runtime-main.0f894a63.js",
     "runtime-main.js.map": "/mundostarr/static/js/runtime-main.0f894a63.js.map",
     "static/js/2.7c488dcd.chunk.js": "/mundostarr/static/js/2.7c488dcd.chunk.js",
     "static/js/2.7c488dcd.chunk.js.map": "/mundostarr/static/js/2.7c488dcd.chunk.js.map",
     "index.html": "/mundostarr/index.html",
-    "precache-manifest.5ea9820c9ca26c965f09dc7d1ef1772d.js": "/mundostarr/precache-manifest.5ea9820c9ca26c965f09dc7d1ef1772d.js",
+    "precache-manifest.1188099abce6e0ad5d828cf29a0b6693.js": "/mundostarr/precache-manifest.1188099abce6e0ad5d828cf29a0b6693.js",
     "service-worker.js": "/mundostarr/service-worker.js",
     "static/css/main.bbe0cab9.chunk.css.map": "/mundostarr/static/css/main.bbe0cab9.chunk.css.map",
     "static/js/2.7c488dcd.chunk.js.LICENSE.txt": "/mundostarr/static/js/2.7c488dcd.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.0f894a63.js",
     "static/js/2.7c488dcd.chunk.js",
     "static/css/main.bbe0cab9.chunk.css",
-    "static/js/main.ab326089.chunk.js"
+    "static/js/main.86f76259.chunk.js"
   ]
 }
